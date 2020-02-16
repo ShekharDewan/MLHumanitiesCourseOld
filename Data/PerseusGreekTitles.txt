@@ -1,0 +1,536 @@
+The Peloponnesian War	1
+Lives of Eminent Philosophers	1
+Hecuba	1
+Heracles	1
+The Trojan Women	1
+Bacchae	1
+Iphigenia in Aulis	1
+Rhesus	1
+Theseus	1
+Romulus	1
+Comparison of Theseus and Romulus	1
+Lycurgus	1
+Numa	1
+Comparison of Lycurgus and Numa	1
+Solon	1
+Publicola	1
+Comparison of Solon and Publicola	1
+Themistocles	1
+Camillus	1
+Pericles	1
+Fabius Maximus	1
+Comparison of Pericles and Fabius Maximus	1
+Alcibiades	1
+Caius Marcius Coriolanus	1
+Comparison of Alcibiades and Coriolanus	1
+Timoleon	1
+Aemilius Paulus	1
+Comparison of Timoleon and Aemilius	1
+Pelopidas	1
+Marcellus	1
+Machine readable text	1
+Machine readable text	2
+Machine readable text	3
+Machine readable text	4
+Machine readable text	5
+Machine readable text	6
+Machine readable text	7
+Machine readable text	8
+Machine readable text	9
+Machine readable text	10
+Machine readable text	11
+Machine readable text	12
+Machine readable text	13
+Machine readable text	14
+Machine readable text	15
+Machine readable text	16
+Machine readable text	17
+Machine readable text	18
+Machine readable text	19
+Machine readable text	20
+Machine readable text	21
+Machine readable text	22
+Machine readable text	23
+Machine readable text	24
+Machine readable text	25
+Machine readable text	26
+Machine readable text	27
+Machine readable text	28
+Machine readable text	29
+Machine readable text	30
+Machine readable text	31
+Machine readable text	32
+Machine readable text	33
+Machine readable text	34
+Demetrius	1
+Antony	1
+Comparison of Demetrius and Antony	1
+Machine readable text	35
+Machine readable text	36
+Machine readable text	37
+Machine readable text	38
+Machine readable text	39
+Machine readable text	40
+Machine readable text	41
+Περὶ παίδων ἀγωγῆς	1
+Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν.	1
+Περὶ τοῦ ἀκούειν	1
+Πῶς ἄν τις διακρίνειε τὸν κόλκακα τοῦ φίλου	1
+Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή	1
+Πῶς ἄν τις ἀπ’ ἐχθρῶν ὠφελοῖτο	1
+Περί πολυφιλίας	1
+Περὶ τύχης	1
+Περὶ ἀρετῆς καὶ κακιάς	1
+Πραμυθητικὸς πρὸς Ἀπολλώνιον	1
+Ὑγιεινὰ παραγγέλματα	1
+Γαμικὰ παραγγέλματα	1
+Των επτά σοφών συμπόσιον	1
+Περὶ δεισιδαιμονίας	1
+Ἀποφθέγματα βασιλέων καὶ στρατηγῶν	1
+Ἀποφθέγματα βασιλέων καὶ στρατηγῶν	2
+Ἀποφθέγματα Λακωνικά	1
+Ἀποφθέγματα Λακωνικά	2
+Τὰ παλαιὰ τῶν Λακεδαινίων ἐπιτηδεύματα	1
+Τὰ παλαιὰ τῶν Λακεδαινίων ἐπιτηδεύματα	2
+Λακαινῶν ἀποφθάγματα	1
+Λακαινῶν ἀποφθάγματα	2
+Γυναικῶν ἀρεταί	1
+Γυναικῶν ἀρεταί	2
+Ἀίτια Ῥωμαϊκά	1
+Κεφαλαίων καταγραφή Ῥωμαϊκά	1
+Αἴτια Ἑλληνικά	1
+Κεφαλαίων καταγραφή Ἑλληνικά	1
+Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ῥωμαϊκῶν	1
+Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ῥωμαϊκῶν	2
+Περὶ τῆς Ῥωμαίων τύχης	1
+Περὶ τῆς Ῥωμαίων τύχης	2
+Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α, λόγος Β	1
+Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α, λόγος Β	2
+Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι	1
+Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι	2
+Περὶ Ἴσιδος και Ὀσίριδος	1
+Περὶ τοῦ Ε τοῦ ἐν Δελφοῖς	1
+Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν	1
+Περὶ τῶν ἐκλελοιπότων	1
+Εἰ διδακτὸν ἡ ἀρετή	1
+Περὶ τῆς ἠθικῆς ἀρετῆς	1
+Περὶ ἀοπγησίας	1
+Περὶ εὐθυμίας	1
+Περὶ φιλαδελφίας	1
+De amore prolis	1
+Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας	1
+An vitiositas ad infelicitatem sufficia	1
+Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν	1
+Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα	1
+De garrulitate	1
+De curiositate	1
+De cupiditate divitiarum	1
+De vitioso pudore	1
+De invidia et odio	1
+De Se Ipsum Citra Invidiam Laudando	1
+De sera numinis vindicta	1
+De fato	1
+De genio Socratis	1
+De exilio	1
+Consolatio ad uxorem	1
+Quaestiones Convivales	1
+Amatorius	1
+Amatoriae narrationes	1
+Maxime cum principbus philosopho esse diserendum	1
+Ad principem ineruditum	1
+An seni respublica gerenda sit	1
+Εἰ πρεσβυτέρῳ πολιτευτέον	1
+Praecepta gerendae reipublicae	1
+De unius in republica dominatione	1
+De vitando aere alieno	1
+Vitae decem oratorum	1
+Comparationis Aristophanis et Menandri compendium	1
+De Herodoti malignitate	1
+Quaestiones Naturales	1
+De faciae quae in orbe lunae apparet	1
+De primo frigido	1
+Aquane an ignis sit utilior	1
+De sollertia animalium	1
+Bruta animalia ratione uti	1
+De esu carnium I	1
+De esu carnium II	1
+Platonicae quaestiones	1
+De animae procreatione in Timaeo	1
+De Stoicorum repugnantiis	1
+Compendium Argumenti Stoicos absurdiora poetis dicere	1
+De communibus notitiis adversus Stoicos	1
+Ὅτι οὐδ' ἡδέως ζῆν ἔστι κατ' Ἐπίκουρον	1
+Πρὸς Κωλώτην	1
+Εἰ καλῶς εἴρηται τὸ λάθε βιώτας	1
+Deipnosophistae	1
+The Deipnosophists	1
+Against Euthynus	1
+Against Callimachus	1
+Against Lochites	1
+Concerning the Team of Horses	1
+Trapeziticus	1
+Aegineticus	1
+To Demonicus	1
+Against the Sophists	1
+Helen	1
+Busiris	1
+Panegyricus	1
+Plataicus	1
+To Nicocles	1
+Nicocles or the Cyprians	1
+Evagoras	1
+Archidamus	1
+On the Peace	1
+Areopagiticus	1
+Antidosis	1
+To Philip	1
+Panathenaicus	1
+To Dionysius	1
+To the Children of Jason	1
+To Archidamus	1
+To the Rulers of the Mytilenaeans	1
+To Timotheus	1
+To Philip, I	1
+To Alexander	1
+To Antipater	1
+To Philip, II	1
+Trachiniae	1
+Antigone	1
+Ajax	1
+Oedipus Tyrannus	1
+Electra	1
+Philoctetes	1
+Oedipus at Colonus	1
+Ichneutae	1
+Iliad (Greek). Machine readable text	1
+Odyssey (Greek). Machine readable text	1
+Ἐπιγράμματα	1
+Hymn 1 To Dionysus	1
+Hymn 2 To Demeter	1
+Hymn 3 To Apollo	1
+Hymn 4 To Hermes	1
+Hymn 5 To Aphrodite	1
+Hymn 6 To Aphrodite	1
+Hymn 7 To Dionysus	1
+Hymn 8 To Ares	1
+Hymn 9 To Artemis	1
+Hymn 10 To Aphrodite	1
+Hymn 11 To Athena	1
+Hymn 12 To Hera	1
+Hymn 13 To Demeter	1
+Hymn 14 to the Mother of the Gods	1
+Hymn 15 To Heracles the Lion-Hearted	1
+Hymn 16 To Asclepius	1
+Hymn 17 To the Dioscuri	1
+Hymn 18 To Hermes	1
+Hymn 19 to Pan	1
+Hymn 20 To Hephaestus	1
+Hymn 21 To Apollo	1
+Hymn 22 To Poseidon	1
+Hymn 23 to Zeus	1
+Hymn 24 To Hestia	1
+Hymn 25 To the Muses and Apollo	1
+Hymn 26 To Dionysus	1
+Hymn 27 To Artemis	1
+Hymn 28 To Athena 	1
+Hymn 29 To Hestia	1
+Hymn 30 To Earth	1
+Hymn 31 To Helios	1
+Hymn 32 To Selene	1
+Hymn 33 To the Dioscuri	1
+Ὀλυνθιακὸς α΄	1
+Ὀλυνθιακὸς β΄	1
+Ὀλυνθιακὸς γ΄	1
+κατὰ Φιλίππου α΄	1
+περὶ τῆς εἰρήνης	1
+κατὰ Φιλίππου β΄	1
+περὶ Ἀλοννήσου	1
+περὶ τῶν ἐν Χερρονήσῳ	1
+κατὰ Φιλίππου γ΄	1
+κατὰ Φιλίππου δ΄	1
+πρὸς τὴν ἐπιστολήν τὴν Φιλίππου	1
+ἐπιστολή [Φιλίππου]	1
+περὶ συντάξεως	1
+περὶ τῶν συμμοριῶν	1
+ὑπὲρ τῆς Ῥοδίων ἐλευθερίας	1
+ὑπὲρ Μεγαλοπολιτῶν	1
+περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν	1
+ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου	1
+περὶ τῆς παραπρεσβείας	1
+περὶ τῆς Ἀτελείας πρὸς Λεπτίνην	1
+κατὰ Μειδίου περὶ τοῦ Κονδύλου	1
+κατὰ Ἀνδροτίωνος παρανόμων	1
+κατὰ Ἀριστοκράτους	1
+κατὰ Τιμοκράτους	1
+κατὰ Ἀριστογείτονος α΄	1
+κατὰ Ἀριστογείτονος β΄	1
+κατὰ Ἀφόβου ἐπιτροπῆς α΄	1
+κατὰ Ἀφόβου β΄	1
+πρὸς Ἄφοβον ὑπὲρ Φάνου ψευδομαρτυριῶν γ΄	1
+πρὸς Ὀνήτορα ἐξούλης α΄	1
+πρὸς Ὀνήτορα ἐξούλης β΄	1
+πρὸς Ζηνόθεμιν παραγραφή	1
+πρὸς Ἀπατούριον παραγραφή	1
+πρὸς Φορμίωνα ὑπὲρ δανείου	1
+πρὸς τὴν Λάκριτον παραγραφὴν	1
+παραγραφὴ ὑπὲρ Φορμίωνος	1
+παραγραφὴ πρὸς Πανταίνετον	1
+παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην	1
+πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος	1
+πρὸς Βοιωτὸν περὶ προικὸς μητρῴας	1
+πρὸς Σπουδίαν ὑπὲρ προικός	1
+πρὸς Φαίνιππον περὶ ἀντιδόσεως	1
+πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου	1
+πρὸς Λεωκάρη περὶ τοῦ Ἀρχιάδου κλήρου	1
+κατὰ Στεφάνου ψευδομαρτυριῶν α΄	1
+κατὰ Στεφάνου ψευδομαρτυριῶν β΄	1
+κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν	1
+κατὰ Ὀλυμπιοδώρου βλάβης	1
+πρὸς Τιμόθεον ὑπὲρ χρέως	1
+πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος	1
+περὶ τοῦ Στεφάνου τῆς τριηραρκίας	1
+πρὸς Κάλλιππον	1
+πρὸς Νικόστρατον περὶ ἀνδραπόδων ἀπογραφῆς Ἀρεθουσίου	1
+κατὰ Κόνωνος αἰκείας	1
+πρὸς Καλλικλέα περὶ χωρίου βλάβης	1
+κατὰ Διονυσοδώρου βλάβης	1
+ἔφεσις πρὸς Εὐβουλίδην	1
+ἔνδειξις κατὰ Θεοκρίνου	1
+κατὰ Νεαίρας	1
+ἐπιτάφιος	1
+ἐρωτικὸς	1
+προοίμια δημηγορικά	1
+Δημοσθένους ἐπιστολαὶ	1
+The Histories	1
+On The Estate of Cleonymus 	1
+On the Estate of Menecles 	1
+On The Estate Of Pyrrhus 	1
+On the Estate of Nicostratus 	1
+On the Estate of Dicaeogenes 	1
+On the Estate of Philoctemon 	1
+On The Estate of Apollodorus 	1
+On The Estate of Ciron
+	1
+On the Estate of Astyphilus 	1
+On The Estate Of Aristarchus 	1
+On the Estate of Hagnias 	1
+On Behalf of Euphiletus 	1
+Clouds	1
+Clouds	2
+Birds	1
+Theogony (Greek). Machine readable text	1
+Works and Days (Greek). Machine readable text	1
+Shield of Heracles (Greek). Machine readable text	1
+Against Timarchus 	1
+The Speech on the Embassy 	1
+Against Ctesiphon
+	1
+On the Mysteries 	1
+On His Return 	1
+On the Peace with Sparta
+	1
+Against Alcibiades 	1
+Prosecution Of The Stepmother For Poisoning 	1
+Anonymous Prosecution for Murder 	1
+The Second Tetralogy: Prosecution for Accidental Homicide 	1
+The Third Tetralogy: Prosecution for Murder Of One Who Pleads Self-Defense 	1
+Περὶ τοῦ Ἡρῷδου φόνου 	1
+On the Choreutes 	1
+Against Demosthenes 	1
+Against Aristogiton 	1
+Against Philocles 	1
+In Defence of Lycophron 	1
+Against Philippides	1
+Against Athenogenes 	1
+In Defence of Euxenippus 	1
+Against Demosthenes 	2
+Funeral Speech 	1
+New Testament - Matthew	1
+New Testament - Mark	1
+New Testament - Luke	1
+New Testament - John	1
+New Testament - Acts	1
+New Testament - Romans	1
+New Testament - 1 Corinthians	1
+New Testament - 2 Corinthians	1
+New Testament - Galatians	1
+New Testament - Ephesians	1
+New Testament - Philippians	1
+New Testament - Colossians	1
+New Testament - 1 Thessalonians	1
+New Testament - 2 Thessalonians	1
+New Testament - 1 Timothy	1
+New Testament - 2 Timothy	1
+New Testament - Titus	1
+New Testament - Philemon	1
+New Testament - Hebrews	1
+New Testament - James	1
+New Testament - 1 Peter	1
+New Testament - 2 Peter	1
+New Testament - 1 John	1
+New Testament - 2 John	1
+New Testament - 3 John	1
+New Testament - Jude	1
+New Testament - Revelation	1
+Hellenica	1
+Memorabilia	1
+Economics	1
+Symposium	1
+Apology	1
+Anabasis	1
+Cyropaedia	1
+Hiero	1
+Agesilaus	1
+Constitution of the Lacedaemonians	1
+Ways and Means	1
+On the Cavalry Commander	1
+On the Art of Horsemanship	1
+On Hunting	1
+Odes (Greek). Machine readable text - O.	1
+Odes (Greek). Machine readable text - P.	1
+Odes (Greek). Machine readable text - N.	1
+Odes (Greek). Machine readable text - I.	1
+Against Leocrates 	1
+On the Natural Faculties.	1
+Euthyphro	1
+Apology	2
+Crito	1
+Phaedo	1
+Cratylus	1
+Theaetetus	1
+Sophist	1
+Statesman	1
+Parmenides	1
+Philebus	1
+Symposium	2
+Phaedrus	1
+Alcibiades 1	1
+Alcibiades 2	1
+Hipparchus	1
+Lovers	1
+Theages	1
+Charmides 	1
+Laches	1
+Lysis	1
+Euthydemus 	1
+Protagoras 	1
+Gorgias	1
+Meno	1
+Hippias Major	1
+Hippias Minor	1
+Ion	1
+Menexenus	1
+Cleitophon	1
+Republic	1
+Timaeus	1
+Critias	1
+Minos	1
+Laws	1
+Epinomis	1
+Epistles	1
+Bibliotheca Historica, Books I-V	1
+Bibliotheca Historica, Books XVIII-XX	1
+Library (Greek). Machine readable text	1
+Suppliant Maidens	1
+Persians	1
+Prometheus Bound	1
+Seven Against Thebes	1
+Agamemnon	1
+Libation Bearers	1
+Eumenides	1
+Eudemian Ethics (Greek). Machine readable text	1
+Metaphysics (Greek). Machine readable text	1
+Economics (Greek). Machine readable text	1
+Ars Poetica	1
+Politics (Greek). Machine readable text	1
+Rhetoric	1
+De musica	1
+Placita Philosophorum	1
+Geography (Greek). Machine readable text	1
+Geography	1
+Odes (Greek) - Ep	1
+Odes (Greek) - Dith	1
+Description of Greece (Greek). Machine readable text	1
+Antiquitates Judaicae	1
+Josephi vita	1
+Contra Apionem	1
+De bello Judaico libri vii	1
+On the Twelve Years 	1
+On the Murder of Eratosthenes	1
+Funeral Oration	1
+Against Simon	1
+On A Wound By Premeditation	1
+For Callias	1
+Against Andocides	1
+Defense in the Matter of the Olive Stump	1
+Accusation of Calumny	1
+For The Soldier	1
+Against Theomnestus 1	1
+Against Theomnestus 2	1
+Against Eratosthenes	1
+Against Agoratus	1
+Against Alcibiades 1	1
+Against Alcibiades 2	1
+In Defense of Mantitheus	1
+On The Property Of Eraton	1
+On the Confiscation of the Property Of The Brother Of Nicias	1
+On the Property of Aristophanes	1
+For Polystratus	1
+Defense Against A Charge Of Taking Bribes	1
+Against The Corn-Dealers	1
+Against Pancleon	1
+On The Refusal Of A Pension	1
+Defense Against a Charge of Subverting the Democracy	1
+On the Scrutiny of Evandros	1
+Against Epicrates and his Fellow-envoys	1
+Against Ergocles	1
+Against Philocrates	1
+Against Nicomachus	1
+Against Philon	1
+Against Diogeiton	1
+Olympic Oration	1
+Against The Subversion of the Ancestral Constitution	1
+Histories	1
+Library 	1
+Epitome 	1
+Kings 	1
+Italy 	1
+Samnite History 	1
+Gallic History 	1
+Sicily and the Other Islands 	1
+Wars in Spain 	1
+Hannibalic War 	1
+Punic Wars 	1
+Numidian Affairs 	1
+Macedonian Affairs 	1
+Illyrian Wars 	1
+Syrian Wars 	1
+Mithridatic Wars 	1
+The Civil Wars	1
+Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν	1
+Ἐγχειρίδιον	1
+Fragmenta	1
+On Ancient Medicine	1
+De aere aquis et locis 	1
+The Book of Prognostics 	1
+On Regimen in Acute Diseases 	1
+Of the Epidemics 	1
+On Injuries of the Head	1
+De officina medici 	1
+On Fractures 	1
+On the Articulations 	1
+Mochlicus or Instruments of Reduction 	1
+Aphorisms 	1
+The Oath 	1
+On the Sacred Disease 	1
+On Ulcers 	1
+On Hemorrhoids 	1
+On Fistulae 	1
+De alimento 	1
+Precepts 	1
+De causis et signis acutorum morborum 	1
+De causis et signis diuturnorum morborum 	1
+De curatione acutorum morborum 	1
+De curatione diuturnorum morborum 	1
+The Epistle of Barnabas	1
+Elements	1
